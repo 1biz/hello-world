@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to My First Coding Page
 
-You can use the [editor on GitHub](https://github.com/1biz/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I was just curious how a github hosted web page looks like, and now i'm facing something called coding which I have no idea about!
+Never mind, just go with it and have fun.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Visit my sites
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[https://www.mjobmarket.com](https://www.mjobmarket.com)
+[https://www.yaelhsu.com](https://www.yaelhsu.com)
+[http://www.bizisrael.com](http://www.bizisrael.com)
+[http://cn.bizisrael.com](http://cn.bizisrael.com)
 
 ```markdown
 Syntax highlighted code block
