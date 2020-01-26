@@ -1,17 +1,21 @@
 ## Welcome to My First Coding Page
 
-I was just curious how a github hosted web page looks like, and now i'm facing something called coding which I have no idea about!
-Never mind, just go with it and have fun.
+I'm an SEO expert (I suppose?) and I thought github might be a good place to use as a personal blog.
+Now I want to see if this page will be indexed by search engines.
 
-### Visit my sites
+### Visit sites
 
 [https://www.mjobmarket.com](https://www.mjobmarket.com)
 
-[https://www.yaelhsu.com](https://www.yaelhsu.com)
+Micro Job Market is a special site dedicated to freelancers.  
+Any freelancer can post to self-promote, put up all your contact details that you want to be public to attract new customers; showcase your profile, your website or your blog all in one place.
 
-[http://www.bizisrael.com](http://www.bizisrael.com)
+[https://www.topicnews.cn](https://www.topicnews.cn)
 
-[http://cn.bizisrael.com](http://cn.bizisrael.com)
+Topic News is a professional online news release distribution platform specializese in press releases in China.
+They are pretty cool, think about it - your news will be published in Chinese, in China!
+isn't that cool?
+
 
 
 ```markdown
